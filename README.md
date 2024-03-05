@@ -1,2 +1,2 @@
 # ASR_jupyter
-为masr项目制作的notebook。仅在阿里云PAI-DSW即魔搭平台modelscope使用。一定要使用Ubuntu系统的notebook环境才能运行。PAI-EAS环境在使用时交互并不是十分流畅。
+为masr项目制作的notebook。仅在阿里云PAI-DSW即魔搭平台modelscope使用。一定要使用Ubuntu系统的notebook环境才能运行。PAI-EAS环境在使用时交互并不是十分流畅，但也可以用。
